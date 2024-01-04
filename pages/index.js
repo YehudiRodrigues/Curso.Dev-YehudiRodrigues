@@ -1,7 +1,7 @@
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 function Home() {
-    return <h1>Olá Tudo Bem? Espero esteja tendo um otimo dia 👍</h1>
+  return <h1>Olá Tudo Bem? Espero esteja tendo um otimo dia 👍</h1>;
 }
 
 export default Home;
